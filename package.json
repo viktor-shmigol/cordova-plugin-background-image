@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-background-image",
+  "version": "1.0.1",
+  "description": "Plugin to set Android background image like splash screen for Cordova/Ionic application",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/viktor-shmigol/cordova-plugin-background-image.git"
+  },
+  "keywords": [
+    "cordova",
+    "cordova-android",
+    "android",
+    "ionic",
+  	"preview",
+  	"window",
+  	"disable"
+  ],
+  "author": {
+    "name": "viktor"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/viktor-shmigol/cordova-plugin-background-image"
+}
