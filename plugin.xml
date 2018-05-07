@@ -10,12 +10,5 @@
       <activity android:name="MainActivity" android:theme="@style/CordovaWindowBackgroundImage"/>
     </edit-config>
     <source-file src="cordova-plugin-background-image-styles.xml" target-dir="res/values" />
-    <config-file target="res/values/cordova-plugin-background-image-styles.xml" parent="/*">
-      <style name="CordovaWindowBackgroundImage" parent="@android:style/Theme.DeviceDefault.NoActionBar">
-        <item name="android:windowContentOverlay">@null</item>
-        <item name="android:windowNoTitle">true</item>
-        <item name="android:windowBackground">@drawable/screen</item>
-      </style>
-    </config-file>
   </platform>
 </plugin>
